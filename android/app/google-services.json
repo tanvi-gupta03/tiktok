@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821089791178",
+    "project_id": "social-13754",
+    "storage_bucket": "social-13754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821089791178:android:31b7a375155a390cdd1833",
+        "android_client_info": {
+          "package_name": "com.example.tiktok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE0UAvbVb1sGr5QWFxq85rx4YF1CzoAWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
